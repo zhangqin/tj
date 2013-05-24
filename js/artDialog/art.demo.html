@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="skins/blue.css" type="text/css"/>
+<title>art demo</title>
+</head>
+
+<body>
+<a href="#"  onclick="myArt1.addContent('hello world').addWidth('400px').addHeight('400px').addTime(4).dialog();">跟踪</a>
+<script src="jquery.js" type="text/javascript" ></script>
+<script src="artDialog.js" type="text/javascript"></script>
+<script src="plugins/iframeTools.js" type="text/javascript"></script>
+<script src="art.class.js" type="text/javascript"></script>
+<script>
+var myArt2 = new myArt();
+myArt2.addUrl('_doc/login_iframe.html').addTime(2).open();
+var myArt1 = new myArt();
+</script>
+</body>
+</html>

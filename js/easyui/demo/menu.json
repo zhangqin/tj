@@ -1,0 +1,15 @@
+//// JavaScript Document                        
+//                              <li><a href="javascript:void(0)" target="main" class="addTab" >art演示</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab" >邮件设置</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">广告设置</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">114增加</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">114管理</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">联系方式</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">汇款方式</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">增加链接</a></li>
+//                              <li><a href="javascript:void(0)" target="main" class="addTab">管理链接</a></li>
+[{
+	'id'	:	1,
+	'text'	:	'<li><a href="javascript:void(0)" target="main" class="addTab" >art演示</a></li>',
+	"iconCls":"icon-ok",
+}];
